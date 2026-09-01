@@ -2,10 +2,8 @@
 
 ## FINAL SUBMISSION
 
-The complete final submission package is available here:
+**[View Final Submission →](https://github.com/harshitkewalramani/credresolve-data-analyst-assignment/releases/tag/v1.0-final)**
 
-**[Download the complete final submission package](../../releases/tag/v1.0-final)**
+The full project files are available in the release above.
 
-This release contains the full SQL repository, analysis notebook, Golden Dataset/pipeline, Data Quality Report, dashboard, executive memo, and architecture diagram.
-
-Please use the release package as the complete submission.
+The release contains the SQL repository, analysis notebook, Golden Dataset / pipeline, Data Quality Report, executive dashboard, executive memo, and production architecture diagram.
